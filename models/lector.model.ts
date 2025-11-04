@@ -1,4 +1,4 @@
-class Lector{ 
+export class Lector{ 
     id: number;
     name: string;
     email: string;
