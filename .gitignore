@@ -3,3 +3,4 @@ logs/
 dist/
 .envdevolpment
 .npmrc
+.env
